@@ -6,11 +6,11 @@ Acknowledgements
 Thanks to Indian Ministry of Health & Family Welfare for making the data available to general public.
 
 Liberary used :
-Python 
-Panda"s
-Numpy
-Seaborn
-Matplotlib
+Python, 
+Panda"s,
+Numpy,
+Seaborn,
+Matplotlib,
 
 Task1.
 analyze covid 19 data and take insights from this data and write your report what you have taken out from it.
